@@ -13,12 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/adailtonribeiro/cordova-plugin-firebase-performance.git"
   },
-  "author": "Adailton Ribeiro <adailton.ribeiro1@gmail.com> (https://github.com/adailtonribeiro)",
+  "author": "Pritam Satsangi <pritam.satsangi@dynanify.com> (https://github.com/pritamdynamify)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/adailtonribeiro/cordova-plugin-firebase-performance/issues"
-  },
-  "homepage": "https://github.com/adailtonribeiro/cordova-plugin-firebase-performance#readme",
   "keywords": [
     "cordova",
     "firebase",

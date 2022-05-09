@@ -3,7 +3,7 @@
 
 ## Installation
 
-    cordova plugin add cordova-plugin-firebase-performance --save
+    cordova plugin add https://github.com/dynamifylimited/cordova-plugin-firebase-performance --save
 
 ## Supported Platforms
 
